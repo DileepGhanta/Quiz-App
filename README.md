@@ -21,7 +21,7 @@ The Quiz Application is an interactive and engaging platform designed to test an
 - Clone Repository
 
 ```
-git clone https://github.com/DileepGhanta/QuizApp.git
+https://github.com/DileepGhanta/Quiz-App.git
 ```
 - Go to directory
 
