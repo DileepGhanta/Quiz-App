@@ -1,4 +1,4 @@
-<h1 align="center">✨ Welcome to Quiz Web App ✨</h1>
+<h1 align="center">✨ Welcome to Apna Quiz ✨</h1>
 
 ## Overview 
 
