@@ -5,7 +5,7 @@ const testimonials = [
         // name: 'Hardik Desai',
         // role: 'Fronted Web Developer',
         content:
-            'This quiz web app is built using React JS. It can allow the user to select the criteria for their quiz from a list of options. The user can then proceed to answer the questions in the quiz and their performance will be tracked and shown in the scoreboard. Moreover, the app can be designed to be responsive and user-friendly.',
+            'This Application is built using React JS. It can allow the user to select the criteria for their quiz from a list of options. The user can then proceed to answer the questions in the quiz and their performance will be tracked and shown in the scoreboard.',
         avatar:
             'https://raw.githubusercontent.com/soumyajit4419/Portfolio/24d955cf6cd4ce5ff8a9a8071f0c87dfa4aaacec/src/Assets/avatar.svg',
     }
