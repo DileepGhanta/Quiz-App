@@ -106,7 +106,7 @@ export default function About() {
                     fontFamily={'Work Sans'}
                     fontWeight={'bold'}
                     color={useColorModeValue('gray.300', 'gray.50')}>
-                    Quiz Web App
+                    Apna Quiz
                 </chakra.h1>
                 <chakra.h2
                     margin={'auto'}
